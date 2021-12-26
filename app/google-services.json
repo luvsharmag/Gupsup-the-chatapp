@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492434003567",
+    "project_id": "gupsup-211e2",
+    "storage_bucket": "gupsup-211e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492434003567:android:e7b0450b76ef9e6b379f9a",
+        "android_client_info": {
+          "package_name": "com.example.gupsup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492434003567-af9t4j0hqeqijirp7jvfm73angvvdqa3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGzW7ijccUWtsttSkdx9qfqzgoHGayaCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492434003567-af9t4j0hqeqijirp7jvfm73angvvdqa3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
